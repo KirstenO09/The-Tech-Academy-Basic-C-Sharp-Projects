@@ -1,0 +1,7 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\bin\Debug\while_dowhile_statements.exe.config
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\bin\Debug\while_dowhile_statements.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\bin\Debug\while_dowhile_statements.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\obj\Debug\while_dowhile_statements.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\obj\Debug\while_dowhile_statements.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\obj\Debug\while_dowhile_statements.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\while_dowhile_statements\obj\Debug\while_dowhile_statements.pdb

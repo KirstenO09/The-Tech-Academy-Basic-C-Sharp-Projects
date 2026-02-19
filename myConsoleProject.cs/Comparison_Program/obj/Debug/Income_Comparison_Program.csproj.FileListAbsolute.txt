@@ -1,0 +1,7 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\bin\Debug\Comparison_Program.exe.config
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\bin\Debug\Comparison_Program.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\bin\Debug\Comparison_Program.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\obj\Debug\Income_Comparison_Program.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\obj\Debug\Income_Comparison_Program.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\obj\Debug\Comparison_Program.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Comparison_Program\obj\Debug\Comparison_Program.pdb

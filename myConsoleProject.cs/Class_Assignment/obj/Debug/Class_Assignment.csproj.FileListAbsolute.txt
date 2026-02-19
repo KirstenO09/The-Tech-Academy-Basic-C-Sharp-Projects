@@ -1,0 +1,7 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\bin\Debug\Class_Assignment.exe.config
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\bin\Debug\Class_Assignment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\bin\Debug\Class_Assignment.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\obj\Debug\Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\obj\Debug\Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\obj\Debug\Class_Assignment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Class_Assignment\obj\Debug\Class_Assignment.pdb

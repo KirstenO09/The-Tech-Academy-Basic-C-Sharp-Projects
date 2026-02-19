@@ -1,0 +1,33 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="../AccountingProject.cs/AccountingProject.cs.csproj" Id="fd862c6b-7622-4e3b-8cd7-ebe1db537e4f" />
+  <Project Path="Abstract_Class_Assigment/Abstract_Class_Assigment.csproj" Id="01658c55-fe35-4e25-9997-4a4b1fed5046" />
+  <Project Path="Array_and_Lists/Array_and_Lists.csproj" Id="256d90f8-6671-4ff1-8539-84fd5b9bae25" />
+  <Project Path="Basic_Approval_Program/Basic_Approval_Program.csproj" Id="9ca2e3f7-67d5-4638-9d40-7818b74aa558" />
+  <Project Path="Calling_Methods/Calling_Methods.csproj" Id="f62391e4-b3ba-438e-a1f0-edf32ca5937a" />
+  <Project Path="Casino/Casino.csproj" Id="1147b2a0-c741-42f9-acfa-92870a30c662" />
+  <Project Path="Class_Assignment/Class_Assignment.csproj" Id="2a584514-1055-49b5-8d63-467c85c88f30" />
+  <Project Path="Comparison_Program/Income_Comparison_Program.csproj" Id="cecf6e38-4b5f-42c1-9aa7-7962618b4b69" />
+  <Project Path="Console_Application/Console_Application.csproj" Id="8de9fc43-4439-4246-be1e-ef80b73bf0a4" />
+  <Project Path="Constructor_Assignment/Constructor_Assignment.csproj" Id="de89cb61-2cdb-40a2-aaec-9b6dccad541d" />
+  <Project Path="DailyReport/DailyReport.cs.csproj" Id="1c2da58e-24ce-4578-a048-dfa5d66d13f9" />
+  <Project Path="Date_Time_Assignment/Date_Time_Assignment.csproj" Id="b8863f86-827d-41cc-9296-5801ed6b6682" />
+  <Project Path="Input_Assignment/Input_Assignment.csproj" Id="1537862f-ce31-4592-97a5-060b6501783b" />
+  <Project Path="Iterating_Arrays/Iterating_Arrays.csproj" Id="14a08696-896a-46db-b83e-e2434d31a476" />
+  <Project Path="Lambda_Assignment/Lambda_Assignment.csproj" Id="21433786-9b76-4676-9196-b0f4c89d01ee" />
+  <Project Path="Methods_Objects_Assignment/Methods_Objects_Assignment.csproj" Id="98e90ace-6803-40c7-874f-4cd14f7bc6b2" />
+  <Project Path="Method_Assignment/Method_Assignment.csproj" Id="35c9046c-54d6-4ab5-a172-531da9805d84" />
+  <Project Path="Method_Class_Assignment/Method_Class_Assignment.csproj" Id="a124a9bc-7f49-4d18-82cc-7fa01671a495" />
+  <Project Path="Method_Overloading/Method_Overloading.csproj" Id="34c3e5f2-d579-449b-9284-8ebef3ba3251" />
+  <Project Path="myConsoleProject.cs/myConsoleProject.cs.csproj" Id="8610149b-112f-4136-92b7-eee41e183c53" />
+  <Project Path="Operators_Assignment/Operators_Assignment.csproj" Id="b5fe9c21-be99-45c5-aef6-c5f2871e7384" />
+  <Project Path="Parameters_Assignment/Parameters_Assignment.csproj" Id="add4f3c2-05df-44fa-a915-8ba57db143b9" />
+  <Project Path="Parse_Enums_Assignment/Parse_Enums_Assignment.csproj" Id="875c23c8-9075-4a5f-a1cf-c4823f3fc99d" />
+  <Project Path="Shipping_Quote/Shipping_Quote.csproj" Id="b0c4a0b2-affc-4536-9fe2-63165598e321" />
+  <Project Path="Strings/Strings.csproj" Id="bf6a213f-1e15-4113-b8c2-5278ff43b44f" />
+  <Project Path="Strings_and_Integers/Strings_and_Integers.csproj" Id="edf3eed5-4994-4498-9a9f-07b81f934300" />
+  <Project Path="Struct_Assignment/Struct_Assignment.csproj" Id="e071afb4-29c1-4199-89f6-9ab61eebba73" />
+  <Project Path="Try_Catch_Assignment/Try_Catch_Assignment.csproj" Id="233eb8fd-c0f6-4736-bb64-0173a451ca00" />
+  <Project Path="TwentyOne/TwentyOne.csproj" Id="63c227ce-c1cf-4669-b960-127369288853" />
+  <Project Path="while_dowhile_statements/while_dowhile_statements.csproj" Id="72539c4a-b9a1-4c30-913b-0a38f5696c2f" />
+</Solution>

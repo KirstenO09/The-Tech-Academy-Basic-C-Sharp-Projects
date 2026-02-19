@@ -1,0 +1,7 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\bin\Debug\Abstract_Class_Assigment.exe.config
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\bin\Debug\Abstract_Class_Assigment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\bin\Debug\Abstract_Class_Assigment.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\obj\Debug\Abstract_Class_Assigment.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\obj\Debug\Abstract_Class_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\obj\Debug\Abstract_Class_Assigment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Abstract_Class_Assigment\obj\Debug\Abstract_Class_Assigment.pdb

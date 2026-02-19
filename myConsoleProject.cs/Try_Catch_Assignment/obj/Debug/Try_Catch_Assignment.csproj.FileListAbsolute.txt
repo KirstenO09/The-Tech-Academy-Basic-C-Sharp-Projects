@@ -1,0 +1,7 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe.config
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.pdb

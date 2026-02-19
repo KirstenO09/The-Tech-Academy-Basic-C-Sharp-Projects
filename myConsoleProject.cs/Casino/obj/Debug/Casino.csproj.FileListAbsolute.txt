@@ -1,0 +1,12 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Casino\bin\Debug\Casino.dll
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Casino\bin\Debug\Casino.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Casino\obj\Debug\Casino.dll
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Casino\obj\Debug\Casino.pdb
+C:\Users\hf3984\source\repos\myConsoleProject.cs\Casino\bin\Debug\Casino.dll
+C:\Users\hf3984\source\repos\myConsoleProject.cs\Casino\bin\Debug\Casino.pdb
+C:\Users\hf3984\source\repos\myConsoleProject.cs\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\hf3984\source\repos\myConsoleProject.cs\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\source\repos\myConsoleProject.cs\Casino\obj\Debug\Casino.dll
+C:\Users\hf3984\source\repos\myConsoleProject.cs\Casino\obj\Debug\Casino.pdb

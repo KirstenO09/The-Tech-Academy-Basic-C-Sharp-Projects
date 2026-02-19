@@ -1,0 +1,7 @@
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\bin\Debug\Parse_Enums_Assignment.exe.config
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\bin\Debug\Parse_Enums_Assignment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\bin\Debug\Parse_Enums_Assignment.pdb
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\obj\Debug\Parse_Enums_Assignment.csproj.AssemblyReference.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\obj\Debug\Parse_Enums_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\obj\Debug\Parse_Enums_Assignment.exe
+C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\Parse_Enums_Assignment\obj\Debug\Parse_Enums_Assignment.pdb

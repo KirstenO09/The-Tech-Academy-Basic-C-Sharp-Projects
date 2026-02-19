@@ -1,0 +1,144 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using Casino.TwentyOne;
+using Casino;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace TwentyOne
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            const string casinoName = "Grand Hotel and Casino"; // create a constant variable for the name of the casino
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName); //prints welcome statement to the screen and asks the user to enter their name
+            string playerName = Console.ReadLine(); // reads user input and assigns it to variable player name
+            if (playerName.ToLower() == "admin")
+            {
+                List<ExceptionEntity> Exceptions = ReadExceptions();
+                foreach (var exception in Exceptions)
+                {
+                    Console.Write(exception.Id + " | ");
+                    Console.Write(exception.ExceptionType + " | ");
+                    Console.Write(exception.ExceptionMessage + " | ");
+                    Console.Write(exception.TimeStamp + " | ");
+                    Console.WriteLine();
+                }
+                Console.Read();
+                return;
+            }
+
+            bool validAnswer = false; // create a boolean variable and set it to false
+            int bank = 0; // create an int variable for bank and set it to 0
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?"); //asks the user how much money did they bring
+                validAnswer = int.TryParse(Console.ReadLine(), out bank); // Try to parse user input to an int and set it to the variable bank, if it is successful set valid answer to true
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals."); // if parsing was not successful print this statement and loop again                       
+
+            }
+
+
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName); // asks the player if they want to join the game ans states the name that they entered
+            string answer = Console.ReadLine().ToLower(); //Convert user input to lowercase
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya") // if player answers yes do the following
+            {
+                Player player = new Player(playerName, bank); // Create player object 
+                player.Id = Guid.NewGuid(); // set player id to a new guid
+                using (StreamWriter file = new StreamWriter(@"C:\Users\hf3984\VScode_Folders\Tech_Academy_C_and_NET\Basic_C#_Programs\myConsoleProject.cs\TwentyOne\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
+                Game game = new TwentyOneGame(); //Create game object polymorphism**
+                game += player; // add player to the game using overloaded operator
+                player.IsActivelyPlaying = true; // set player is actively player to be true
+
+                while (player.IsActivelyPlaying && player.Balance > 0) // while the player is actively playing and they don't have a 0 balance
+                {
+                    try
+                    {
+                        game.Play(); // play the game
+                    }
+                    catch (FraudException ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                        UpdateDbWithException(ex);
+                        Console.ReadLine();
+                        return; // exit the program
+
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your system administrator."); // if an error occurs print this statement
+                        UpdateDbWithException(ex);
+                        Console.ReadLine();
+                        return; // exit the program
+                    }
+
+                }
+                game -= player;//subtract player from game when they are done playing
+                Console.WriteLine("Thank you for playing!"); // prints this statement when the user is done playing
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now."); // if the user does not want to play the game and enters 'no' or not yes print this statement
+            Console.Read();
+        }
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionString = @"Data Source=(localdb)\ProjectModels;
+                                        Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;";
+
+            string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, Timestamp) VALUES
+                                    (@ExceptionType, @ExceptionMessage, @TimeStamp)";
+            
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                // specify sizes for varchars to be explicit
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar, 255).Value = ex.GetType().ToString();
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar, 4000).Value = ex.Message;
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime).Value = DateTime.Now;
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                connection.Close();                
+            }
+        }
+        private static List<ExceptionEntity> ReadExceptions()
+        {
+            string connectionString = @"Data Source=(localdb)\ProjectModels;
+                                        Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;";
+
+
+            string queryString = @"Select Id, ExceptionType, ExceptionMessage, TimeStamp From Exceptions";
+            List<ExceptionEntity> Exceptions = new List<ExceptionEntity>();
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    ExceptionEntity exception = new ExceptionEntity();
+                    exception.Id = Convert.ToInt32(reader["Id"]);
+                    exception.ExceptionType = reader["ExceptionType"].ToString();
+                    exception.ExceptionMessage = reader["ExceptionMessage"].ToString();
+                    exception.TimeStamp = Convert.ToDateTime(reader["TimeStamp"]);
+                    Exceptions.Add(exception);
+
+                }
+                connection.Close();
+            }
+            return Exceptions;
+        }
+    }
+}
