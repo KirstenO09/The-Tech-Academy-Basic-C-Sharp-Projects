@@ -1,5 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="CarInsurance/CarInsurance.csproj" Id="b7e7b9cf-70f1-42a7-bc7a-295bca6fa40f" />
+  <Project Path="CodeFirstStudentApp/CodeFirstStudentApp.csproj" Id="075d81a6-39b6-47cd-a699-90728222e2c2" />
   <Project Path="MVCTutorial/MVCTutorial.csproj" Id="13b49dc7-8147-45e7-b79b-6e2927ab642c" />
   <Project Path="NewsletterAppMVC/NewsletterAppMVC.csproj" Id="4d1ab822-b564-4a9f-baff-3b55b76e0e08" />
   <Project Path="TechAcadStudentsMVC/TechAcadStudentsMVC.csproj" Id="0496b43f-82f5-4334-b263-198e24f588bb" />

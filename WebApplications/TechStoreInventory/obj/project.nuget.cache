@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewJZW6iIYlM=",
+  "dgSpecHash": "60qYTIywb4Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\TechStoreInventory\\TechStoreInventory.csproj",
+  "projectFilePath": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\TechStoreInventory\\TechStoreInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hf3984\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\hf3984\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

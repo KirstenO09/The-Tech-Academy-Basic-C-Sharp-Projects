@@ -6129,11 +6129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\TechStoreInventory\\TechStoreInventory.csproj",
+      "projectUniqueName": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\TechStoreInventory\\TechStoreInventory.csproj",
       "projectName": "TechStoreInventory",
-      "projectPath": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\TechStoreInventory\\TechStoreInventory.csproj",
+      "projectPath": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\TechStoreInventory\\TechStoreInventory.csproj",
       "packagesPath": "C:\\Users\\hf3984\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\TechStoreInventory\\obj\\",
+      "outputPath": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\TechStoreInventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

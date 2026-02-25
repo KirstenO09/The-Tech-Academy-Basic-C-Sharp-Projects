@@ -1,54 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\",
+  "WorkspaceRootPath": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C775B8E5-7B64-47C6-BE6B-E94DA6850656}|Solution Items{C775B8E5-7B64-47C6-BE6B-E94DA6850656}|C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C775B8E5-7B64-47C6-BE6B-E94DA6850656}|Solution Items{C775B8E5-7B64-47C6-BE6B-E94DA6850656}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CodeFirstStudentApp.SchoolContext/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CodeFirstStudentApp.SchoolContext/True/SqlTable/dbo.Grades.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|c:\\users\\hf3984\\source\\repos\\the-tech-academy-basic-c-sharp-projects\\webapplications\\codefirststudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|solutionrelative:codefirststudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|c:\\users\\hf3984\\source\\repos\\the-tech-academy-basic-c-sharp-projects\\webapplications\\codefirststudentapp\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|solutionrelative:codefirststudentapp\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\views\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|c:\\users\\hf3984\\source\\repos\\the-tech-academy-basic-c-sharp-projects\\webapplications\\codefirststudentapp\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|solutionrelative:codefirststudentapp\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217190445_UpdateInsureeModelDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarInsurance\\Migrations\\20260217190445_UpdateInsureeModelDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217180047_UpdateInsureeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarInsurance\\Migrations\\20260217180047_UpdateInsureeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\data\\carinsurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\data\\carinsurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|c:\\users\\hf3984\\source\\repos\\webapplications\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E7B9CF-70F1-42A7-BC7A-295BCA6FA40F}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217171951_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarInsurance\\Migrations\\20260217171951_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|c:\\users\\hf3984\\source\\repos\\the-tech-academy-basic-c-sharp-projects\\webapplications\\codefirststudentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075D81A6-39B6-47CD-A699-90728222E2C2}|CodeFirstStudentApp\\CodeFirstStudentApp.csproj|solutionrelative:codefirststudentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +36,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,158 +44,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Admin.cshtml",
-              "RelativeDocumentMoniker": "CarInsurance\\Views\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Admin.cshtml",
-              "RelativeToolTip": "CarInsurance\\Views\\Admin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T19:52:19.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Insurees\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Insurees\\Index.cshtml",
-              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T19:38:30.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T19:16:43.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20260217190445_UpdateInsureeModelDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217190445_UpdateInsureeModelDisplay.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20260217190445_UpdateInsureeModelDisplay.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217190445_UpdateInsureeModelDisplay.cs",
-              "RelativeToolTip": "CarInsurance\\Migrations\\20260217190445_UpdateInsureeModelDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T19:04:45.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260217180047_UpdateInsureeModel.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217180047_UpdateInsureeModel.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20260217180047_UpdateInsureeModel.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217180047_UpdateInsureeModel.cs",
-              "RelativeToolTip": "CarInsurance\\Migrations\\20260217180047_UpdateInsureeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T18:00:47.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InsureesController.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Controllers\\InsureesController.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Controllers\\InsureesController.cs",
-              "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T17:33:56.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Program.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Program.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Program.cs",
-              "RelativeToolTip": "CarInsurance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T17:13:49.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\appsettings.json",
-              "RelativeDocumentMoniker": "CarInsurance\\appsettings.json",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\appsettings.json",
-              "RelativeToolTip": "CarInsurance\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-17T17:09:24Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-25T20:17:21.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Insuree.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Models\\Insuree.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Models\\Insuree.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Models\\Insuree.cs",
-              "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CodeFirstStudentApp.SchoolContext/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-20T21:34:57.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Grades [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CodeFirstStudentApp.SchoolContext/True/SqlTable/dbo.Grades.sql",
+              "ToolTip": "dbo.Grades [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-20T21:34:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentApp\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\SchoolContext.cs",
+              "RelativeToolTip": "CodeFirstStudentApp\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T16:39:33.298Z",
+              "WhenOpened": "2026-02-20T21:21:38.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\Grade.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentApp\\Grade.cs",
+              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\Grade.cs",
+              "RelativeToolTip": "CodeFirstStudentApp\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:20:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentApp\\Student.cs",
+              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\Student.cs",
+              "RelativeToolTip": "CodeFirstStudentApp\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:20:41.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
-              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T20:03:04.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CarInsuranceContext.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Data\\CarInsuranceContext.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Data\\CarInsuranceContext.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Data\\CarInsuranceContext.cs",
-              "RelativeToolTip": "CarInsurance\\Data\\CarInsuranceContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstStudentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplications\\CodeFirstStudentApp\\Program.cs",
+              "RelativeToolTip": "CodeFirstStudentApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T16:59:55.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20260217171951_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217171951_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20260217171951_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\hf3984\\source\\repos\\WebApplications\\CarInsurance\\Migrations\\20260217171951_InitialCreate.cs",
-              "RelativeToolTip": "CarInsurance\\Migrations\\20260217171951_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T17:19:52.274Z",
+              "WhenOpened": "2026-02-20T21:20:12.731Z",
               "EditorCaption": ""
             }
           ]
